@@ -1,0 +1,16 @@
+{
+  "name": "laoke-chart-forge",
+  "displayName": "数据可视化图表生成器",
+  "slug": "laoke-chart-forge",
+  "version": "1.0.0",
+  "category": "office-efficiency",
+  "license": "MIT",
+  "author": "laoke",
+  "description": "零依赖把 CSV/JSON 渲染成 SVG 柱状图/折线图/饼图，附完整数据可视化方法论。",
+  "tags": ["图表", "可视化", "SVG", "数据", "办公效率", "零依赖"],
+  "minRuntime": "python3.8+",
+  "entry": "scripts/chart_forge.py",
+  "safetyLevel": "local-only",
+  "networkRequired": false,
+  "dependencies": []
+}
